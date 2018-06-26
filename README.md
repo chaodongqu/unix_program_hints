@@ -10,3 +10,6 @@ ssh-keygen -t rsa -C "chaodongqu@163.com"
 /home/chaodongqu/.ssh/id_163_rsa
 xclip -sel clip < ~/.ssh/id_163_rsa.pub
 gitlab.linx-info.cd
+
+### qt 直接下载地址
+http://download.qt.io/archive/
