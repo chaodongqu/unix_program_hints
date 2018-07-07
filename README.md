@@ -17,3 +17,4 @@ http://download.qt.io/archive/
 
 ### spring boot 支持https
 https://blog.csdn.net/JHYPXS/article/details/78090205
+https://blog.csdn.net/shouldnotappearcalm/article/details/78047047
