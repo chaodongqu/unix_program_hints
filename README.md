@@ -13,3 +13,7 @@ gitlab.linx-info.cd
 
 ### qt 直接下载地址
 http://download.qt.io/archive/
+
+
+### spring boot 支持https
+https://blog.csdn.net/JHYPXS/article/details/78090205
