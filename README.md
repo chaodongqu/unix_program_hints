@@ -21,3 +21,6 @@ https://blog.csdn.net/shouldnotappearcalm/article/details/78047047
 
 ### spring boot controller 参数传递
 https://blog.csdn.net/suki_rong/article/details/80445880
+
+### usb_key
+https://linuxconfig.org/linux-authentication-login-with-usb-device
