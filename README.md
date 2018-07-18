@@ -28,3 +28,9 @@ https://linuxconfig.org/linux-authentication-login-with-usb-device
 
 ### winme 运行
 ./winetricks --gui
+
+####  rdesktop的下载和安装
+
+debian安装apt-get install rdesktop
+安装成功后，在/usr/local/bin下生成了可执行的rdesktop 程序。
+
