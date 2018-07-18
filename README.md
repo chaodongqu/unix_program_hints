@@ -24,3 +24,7 @@ https://blog.csdn.net/suki_rong/article/details/80445880
 
 ### usb_key
 https://linuxconfig.org/linux-authentication-login-with-usb-device
+
+
+### winme 运行
+./winetricks --gui
