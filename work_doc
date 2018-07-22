@@ -17,8 +17,11 @@
 
 2 .实现凝思安全操作系统42/60/80版本的系统基础镜像库。方便开发者创建自己特有的容器模板，打包他们的应用程序。
 
-3 . 实现凝思容器集群管理系统 ，需要提供运行在凝思安全操作系统80版本下的docker集群管理系统（Kubernetes v1.1.1）。Kubernetes 是用于自动部署，扩展和管理容器化应用程序的开源系统。
-Swarm mode
+3 . 实现凝思容器集群管理系统 ，需要提供运行在凝思安全操作系统80版本下的docker集群管理系统。
+具体选型可以选Kubernetes/Swarm mode/Mesos/Rancher （全部基于Apache Licence 2.0）
+Kubernetes 是用于自动部署，扩展和管理容器化应用程序的开源系统。目前开源活跃度极高。
+swarm mode 是docker内置功能，提供cli但是没有图形界面
+Mesos/Rancher也可用作docker集群管理， 但是用户不如k8活跃
 
 
 ///
