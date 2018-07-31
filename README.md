@@ -34,3 +34,5 @@ https://linuxconfig.org/linux-authentication-login-with-usb-device
 debian安装apt-get install rdesktop
 安装成功后，在/usr/local/bin下生成了可执行的rdesktop 程序。
 
+### Configuring Gnome-Screensaver fingerprint-plugin
+https://github.com/terjr/fingerprint-gui/blob/master/doc/Step-by-step-manual.xml
