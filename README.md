@@ -36,3 +36,6 @@ debian安装apt-get install rdesktop
 
 ### Configuring Gnome-Screensaver fingerprint-plugin
 https://github.com/terjr/fingerprint-gui/blob/master/doc/Step-by-step-manual.xml
+
+### debian仓库下载搜索地址
+https://packages.debian.org/search?suite=default&section=all&arch=any&searchon=names&keywords=fakekey
