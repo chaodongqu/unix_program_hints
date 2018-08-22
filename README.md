@@ -39,3 +39,6 @@ https://github.com/terjr/fingerprint-gui/blob/master/doc/Step-by-step-manual.xml
 
 ### debian仓库下载搜索地址
 https://packages.debian.org/search?suite=default&section=all&arch=any&searchon=names&keywords=fakekey
+
+### Autoconf
+https://www.cnblogs.com/jeakeven/p/5546614.html
