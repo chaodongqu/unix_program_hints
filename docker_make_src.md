@@ -6,15 +6,16 @@ https://github.com/moby/moby/issues/33669
 
 ### B: debian安装 docker(直接下载安装包）
 https://www.cnblogs.com/heyangyi/p/8613149.html 
-docker-ce_17.03.0~ce-0~debian-stretch_amd64.deb
+<br>
+docker-ce_18.06.1~ce~3-0~debian_amd64.deb
 
-注意：
+注意：<br>
 修改PATH
 
-问题：(本质原因是，通过 dockerhub的版本与本地版本不一致） 参考回答 ：https://github.com/ethereum/go-ethereum/issues/15363
+问题：(本质原因是，通过 dockerhub的版本与本地版本不一致） 参考回答 ：<br>https://github.com/ethereum/go-ethereum/issues/15363<br>
 Error parsing reference: golang:1.10.3 AS base is not a valid repository/tag: invalid reference format
---- 切换到最新版本
-docker-ce_18.06.1~ce~3-0~debian_amd64.deb
+<br>--- 切换到最新版本
+<br> docker-ce_18.06.1~ce~3-0~debian_amd64.deb
 
 #### C。 编译源码
 下载 git docker 
