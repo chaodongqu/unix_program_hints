@@ -28,6 +28,7 @@ make binary
 3 . 执行 ./bundles/binary-daemon/docerkd
 4 . 执行  sudo docker version
 
+```
 Client:
  Version:           18.06.1-ce
  API version:       1.38
@@ -47,12 +48,16 @@ Server:
   OS/Arch:          linux/amd64
   Experimental:     false
 
+```
 --------------- 已经OK
 
 https://jimmysong.io/posts/docker-dev-env/
 
-
-golang的 vs code 环境配置很折腾(一定要设置代理）
+### 其他问题，golang的开发环境配置
+golang 的 vs code 环境配置很折腾(一定要设置代理）
+```
 chaodongqu@chaodongqu:~/tmp$ http_proxy=http://127.0.0.1:9666 go get -u golang.org/x/tools/cmd/gorename
 https://blog.csdn.net/littlebrain4solving/article/details/78871137
 
+
+```
