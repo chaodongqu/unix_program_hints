@@ -42,3 +42,6 @@ https://packages.debian.org/search?suite=default&section=all&arch=any&searchon=n
 
 ### Autoconf
 https://www.cnblogs.com/jeakeven/p/5546614.html
+
+### golan book
+http://www.uzzf.com/soft/344044.html
