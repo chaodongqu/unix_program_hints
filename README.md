@@ -48,3 +48,7 @@ http://www.uzzf.com/soft/344044.html
 
 ### mac docker
 https://www.douban.com/note/618210921/?start=0
+
+### gdb
+
+https://blog.csdn.net/xzz_hust/article/details/39105191
